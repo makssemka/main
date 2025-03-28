@@ -1,3 +1,4 @@
 [submodule "submodul"]
 	path = submodul
 	url = https://github.com/makssemka/submodul.git
+        branch = main
